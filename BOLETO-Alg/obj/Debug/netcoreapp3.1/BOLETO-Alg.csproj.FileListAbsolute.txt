@@ -1,0 +1,13 @@
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.csprojAssemblyReference.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.AssemblyInfoInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.AssemblyInfo.cs
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.csproj.CoreCompileInputs.cache
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\bin\Debug\netcoreapp3.1\BOLETO-Alg.exe
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\bin\Debug\netcoreapp3.1\BOLETO-Alg.deps.json
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\bin\Debug\netcoreapp3.1\BOLETO-Alg.runtimeconfig.json
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\bin\Debug\netcoreapp3.1\BOLETO-Alg.runtimeconfig.dev.json
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\bin\Debug\netcoreapp3.1\BOLETO-Alg.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\bin\Debug\netcoreapp3.1\BOLETO-Alg.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.dll
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.pdb
+C:\Users\CCE\OneDrive\Área de Trabalho\BOLETO-Alg\obj\Debug\netcoreapp3.1\BOLETO-Alg.genruntimeconfig.cache
